@@ -1,0 +1,174 @@
+body{
+  margin: 0;
+}
+h1{
+  font-size: 65px;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  color: #FFFFFF;
+}
+h2{
+  font-family: 'Inter', sans-serif;
+  font-size: 45px;
+  color:  #121212;
+  text-align: center;
+}
+h3{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  color:  #121212;
+}
+p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  padding: 0 200px;
+  color: #FFFFFF;
+  margin-bottom: 60px;
+}
+.btn{
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  color: #FFFFFF;
+  background-color: #FF5959;
+  padding: 16px 12px;
+  border-radius: 5px;
+}
+.first-part{
+  text-align: center;
+  padding: 150px 200px;
+}
+.design-part1{
+  background-image: url(images/donation1.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 669px;
+  margin-bottom: 100px;
+}
+.second-para{
+  font-family: 'Poppins', sans-serif;
+  color: #707070;
+  text-align: center;
+  padding: 0 400px;
+  margin-bottom: 0;
+}
+.tk{
+  padding: 35px 20px;
+  margin-left: 10px;
+  background-color: #FAFAFA;
+  border-radius: 5px;
+}
+#red-tk{
+  color: #FF5959;
+  background-color:  #FFEEEE;
+  border: 2px solid #FF5959 ;
+}
+.taka{
+  font-family: 'Inter', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  display: flex;
+  margin-left: 300px;
+}
+#input-tk{
+  color: #B3B3B3;
+}
+hr{
+  width: 50%;
+  margin-bottom: 50px;
+}
+.second-part2{
+  text-align: center;
+  height: 200px;
+}
+.third-para{
+  font-family: 'Poppins', sans-serif;
+  color: #707070;
+  padding: 0;
+}
+.design-part3{
+display: flex;
+margin-left: 100px;
+margin-bottom: 100px;
+}
+.box1{
+  background-color:  #707070;
+  margin-left: 10px;
+  padding: 20px;
+  width: 340px;
+  height: 280px;
+}
+#box-color1{
+  background: rgba(79, 157, 166, 0.1);
+} 
+#box-color2{
+  background: rgba(255, 89, 89, 0.1);
+} 
+#box-color3{
+  background: rgba(241, 35, 35, 0.1);
+}
+.forth-para h2{
+  text-align: left;
+} 
+.forth-para p{
+  text-align: left;
+  padding: 0;
+  margin-bottom: 30px;
+} 
+.forth-para{
+  width: 493px;
+  height: 100%;
+  margin-left: 50px;
+}
+.forth-para img{
+  width: 456px;
+  height: 400px;
+  margin-top: 50px;
+}
+.design-part4{
+  display: flex;
+  margin-left: 120px;
+  margin-bottom: 100px;
+}
+input{
+  width: 275px;
+  height: 48px;
+  background: #D9D9D9;
+  border-radius: 5px 0px 0px 5px;
+  margin-top: 70px;
+}
+.email a{
+  width: 157px;
+  height: 48px;
+  padding: 14px 12px;
+  border-radius: 0px 5px 5px 0px
+}
+.email{
+  text-align: center;
+  margin-bottom: 100px;
+  background: #FFF4D6;
+  width: 809px;
+  height: 200px;
+  margin-left: 300px;
+}
+footer h3{
+  font-family: 'Lobster';
+  font-weight: 400;
+  font-size: 36px;
+  color: #FF5959;
+  margin: 0;
+}
+footer p{
+  font-family: 'Manrope', sans-serif;
+  color: #D9DBE1;
+  font-weight: 400;
+  font-size: 14px;
+  margin: 0;
+}
+footer{
+  padding-top: 20px;
+  padding-bottom: 50px;
+  text-align: center;
+  background: #0B0D17;
+}
